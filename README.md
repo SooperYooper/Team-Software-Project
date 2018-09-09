@@ -1,2 +1,3 @@
 # Team-Software-Project
-shows basic knowledge on altering a repository 
+
+Edit for cs3141 assignment. 
